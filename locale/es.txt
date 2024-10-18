@@ -1,0 +1,63 @@
+#: locale=es
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_87B2E2B7_9D92_DC0B_41C7_A06F24A5F23A.toolTip = Edafositio
+HotspotPanoramaOverlayArea_87632045_9D96_7C0F_41D3_A16AF7783AA4.toolTip = Hondonada sur
+HotspotPanoramaOverlayArea_868754FC_9D92_E5FD_41DB_0EA5EEB9E27D.toolTip = Lavas cordadas
+HotspotPanoramaOverlayArea_87606AD2_9D96_EC05_41E1_44BAC196A54E.toolTip = Pared
+HotspotPanoramaOverlayArea_87DE6746_9D93_E40C_41BF_702487FC6562.toolTip = Plataforma
+HotspotPanoramaOverlayArea_86DB576A_9D95_E405_41DE_E9EB7B69F684.toolTip = Plaza Palo Loco
+HotspotPanoramaOverlayArea_8766F45F_9D96_643B_41D8_9C2AEF35289E.toolTip = Plaza Xitle
+HotspotPanoramaOverlayArea_93723DAB_9DB6_E41B_41E0_02071C3FFEB8.toolTip = Recepción
+HotspotPanoramaOverlayArea_87F1D42A_9D92_2405_4183_E0E30E7ABC9D.toolTip = Tragaluz
+HotspotPanoramaOverlayArea_842C35D7_9D92_240B_41D2_4EA20FCAA522.toolTip = Túmulo
+
+## Media
+
+### Subtítulo
+panorama_96BDA1EF_9D92_7C1B_418C_33B3B9A84F3F.subtitle = Secc 1
+panorama_90DDD300_9DB2_FC05_41C9_FB703F0F3D7A.subtitle = Secc 2
+panorama_931616D3_9D92_E40B_41D5_9C5C4BC4CEF9.subtitle = Secc 2
+panorama_91AEEFD9_9D92_E407_41E3_A7C361E799AA.subtitle = Secc 3
+panorama_91F547CE_9DB2_241D_41E0_23609F147C2F.subtitle = Secc 3
+
+### Título
+panorama_931616D3_9D92_E40B_41D5_9C5C4BC4CEF9.label = Pano 1
+panorama_91AE5FE9_9D92_6407_41CA_E68A2BD6CD33.label = Pano 10
+panorama_91AE68F6_9D92_2C0D_41E1_8E4320A8C8F3.label = Pano 11
+panorama_91AEEFD9_9D92_E407_41E3_A7C361E799AA.label = Pano 2
+panorama_91AE0907_9D92_2C0C_41D9_3CE9D3D6A976.label = Pano 3
+panorama_91AE7235_9D92_3C0F_41D4_16B4AE1780D7.label = Pano 4
+panorama_91AE8B6A_9D92_2C05_41DA_3810DFD65437.label = Pano 5
+panorama_89D75D7C_9DFE_64FD_41DC_C74813C71019.label = Pano 5b
+panorama_8E22898C_9DEE_6C1D_41D5_282E24305F30.label = Pano 6
+panorama_91AE44B2_9D92_6405_4171_0CD723F8FA66.label = Pano 7
+panorama_91AE7DBE_9D92_647D_41D3_2505152BEA8D.label = Pano 8
+panorama_91AEC6DC_9D92_643D_41E0_A7935E1E6186.label = Pano 9
+panorama_96BDA1EF_9D92_7C1B_418C_33B3B9A84F3F.label = Pano_dron
+panorama_90DDD300_9DB2_FC05_41C9_FB703F0F3D7A.label = Panorama 1
+panorama_91FB7BAC_9DB2_6C1D_41AC_FB3A27291677.label = Panorama 10
+panorama_91FB5DF8_9DB2_6405_41B6_A7D4A77583A6.label = Panorama 11
+panorama_8B9B1869_9DB2_2C07_41D0_8AEFE0A7B672.label = Panorama 12
+panorama_91F547CE_9DB2_241D_41E0_23609F147C2F.label = Panorama 2
+panorama_91CCADCA_9DB2_6405_41CF_C6F47D9C4399.label = Panorama 3
+panorama_91FA4E7E_9DB2_64FD_41C6_1AB321B526DE.label = Panorama 4
+panorama_91FACEF8_9DB2_2404_41D5_774C96B00EF1.label = Panorama 5
+panorama_91F4C0EE_9DB3_DC1D_41B7_30CA1C2887F8.label = Panorama 6
+panorama_91F4D311_9DB3_FC07_41E1_CA118A9D76C7.label = Panorama 7
+panorama_91F4D370_9DB3_DC05_41DC_CAE049F7C227.label = Panorama 8
+panorama_91FB8693_9DB2_240B_41D1_D83CD8B68249.label = Panorama 9
+
+## Skin
+
+### Tooltip
+IconButton_8095FA62_9E93_EC05_41CA_AF3F462D9AF7.toolTip = Vista de dron...
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Geopedregal360
